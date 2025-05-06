@@ -15,7 +15,7 @@ Module 1 - Paul & Riaz
 
 - Lecture 6 - Martingales
   
-# Project 
+# Project for Module 1
 
 Introduction to Financial Times Series
 

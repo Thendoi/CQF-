@@ -2,9 +2,9 @@
 
 Module 1 - Paul & Riaz
 
-Lec1 - Random Behaviour of Assets
+- Lec1 - Random Behaviour of Assets
 
-Lec2 - Binomial Model
+- Lec2 - Binomial Model
 
 Lec3 - PDEs & Transition Density Functions
 

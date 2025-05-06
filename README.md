@@ -32,6 +32,13 @@ Module 2 - Sebastien & Stuart Jackman & Stephen Taylor
 - Lecture 6 - Risk Regulation & Basel III
 - Lecture 7 - Collateral and Margins
 
+# Project for Module 2
+
+Portfolio Optimization
+
+Value at Risk & GARCH
+
+
 Module 3 - Sebastien & Riaz & Paul & Espen
 
 - Lecture 1 - Black Scholes Model
@@ -45,6 +52,17 @@ Module 3 - Sebastien & Riaz & Paul & Espen
 - Lecture 9 - Advanced Greeks
 - Lecture 10 - Advanced Volatility Modelling
 - Lecture 11 - FX Options
+
+# Project for Module 3
+
+Black Scholes Option Pricing
+
+Monte Carlo Simulation
+
+Finite Difference Methods
+
+Implied Volatility
+
 
 Module 4 - Paul, Panos & Kannan
 

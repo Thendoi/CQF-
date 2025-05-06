@@ -1,5 +1,6 @@
 # CQF-
-__
+___
+
 Module 1 - Paul & Riaz
 
 - Lecture 1 - Random Behaviour of Assets
@@ -14,7 +15,7 @@ Module 1 - Paul & Riaz
 
 - Lecture 6 - Martingales
   
-###Project 
+# Project 
 
 Introduction to Financial Times Series
 

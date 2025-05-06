@@ -13,64 +13,68 @@ Module 1 - Paul & Riaz
 - Lecture 5 - Applied Stochastic Calculus II
 
 - Lecture 6 - Martingales
-
+___
+Project 
+Introduction to Financial Times Series
+Binomial Trees in Option Pricing
+___
 Module 2 - Sebastien & Stuart Jackman & Stephen Taylor
 
-Lec1 - An Intro of Portfolio Theory
-Lec2 - Fundamentals of Optimisation and Application, Black-Litterman Model
-Lec3 - Value at Risks and Expected Shortfalls
-Lec4 - Asset Returns: Key Imperial Stylised Facts
-Lec5 - Volatility Models: The ARCH Framework
-Lec6 - Risk Regulation & Basel III
-Lec7 - Collateral and Margins
+- Lecture 1 - An Intro of Portfolio Theory
+- Lecture 2 - Fundamentals of Optimisation and Application, Black-Litterman Model
+- Lecture 3 - Value at Risks and Expected Shortfalls
+- Lecture 4 - Asset Returns: Key Imperial Stylised Facts
+- Lecture 5 - Volatility Models: The ARCH Framework
+- Lecture 6 - Risk Regulation & Basel III
+- Lecture 7 - Collateral and Margins
 
 Module 3 - Sebastien & Riaz & Paul & Espen
 
-Lec1 - Black Scholes Model
-Lec2 - Martingales Theory - Applications to Option Pricing
-Lec3 - Martingales & PDEs: Which, When & Why
-Lec4 - Intro to Numerical Methods
-Lec5 - Exotic Options
-Lec6 - Understanding Volatility
-Lec7 - Further Numerical Methods
-Lec8 - Derivatives Market Practice
-Lec9 - Advanced Greeks
-Lec10 - Advanced Volatility Modelling
-Lec11 - FX Options
+- Lecture 1 - Black Scholes Model
+- Lecture 2 - Martingales Theory - Applications to Option Pricing
+- Lecture 3 - Martingales & PDEs: Which, When & Why
+- Lecture 4 - Intro to Numerical Methods
+- Lecture 5 - Exotic Options
+- Lecture 6 - Understanding Volatility
+- Lecture 7 - Further Numerical Methods
+- Lecture 8 - Derivatives Market Practice
+- Lecture 9 - Advanced Greeks
+- Lecture 10 - Advanced Volatility Modelling
+- Lecture 11 - FX Options
 
 Module 4 - Paul, Panos & Kannan
 
-Lec1 - An Introduction to Machine Learning I
-Lec2 - An Introduction to Machine Learning II
-Lec3 - Maths Toolbox for Machine Learning
-Lec4 - Supervised Learning I
-Lec5 - Supervised Learning II
-Lec6 - Decision Tree & Ensemble Learning
+- Lecture 1 - An Introduction to Machine Learning I
+- Lecture 2 - An Introduction to Machine Learning II
+- Lecture 3 - Maths Toolbox for Machine Learning
+- Lecture 4 - Supervised Learning I
+- Lecture 5 - Supervised Learning II
+- Lecture 6 - Decision Tree & Ensemble Learning
 
 Module 5 - Panos, Kannan, Miquel
 
-Lec1 - Unsupervised Learning I
-Lec2 - Unsupervised Learning II
-Lec3 - Deep Learning & Neural Networks
-Lec4 - Natural Language Processing
-Lec5 - Reinforcement Learning I
-Lec6 - Reinforcement Learning II
-Lec7 - AI Based Algo Trading Strategies
-Lec8 - Practical Machine Learning Case Studies for Finance
-Lec9 - Quantum Computing
+- Lecture 1 - Unsupervised Learning I
+- Lecture 2 - Unsupervised Learning II
+- Lecture 3 - Deep Learning & Neural Networks
+- Lecture 4 - Natural Language Processing
+- Lecture 5 - Reinforcement Learning I
+- Lecture 6 - Reinforcement Learning II
+- Lecture 7 - AI Based Algo Trading Strategies
+- Lecture 8 - Practical Machine Learning Case Studies for Finance
+- Lecture 9 - Quantum Computing
 
 Module 6
 
-Lec1 - Fixed Income Products & Analysis
-Lec2 - Stochastic Interest Rate Modelling
-Lec3 - Calibration & Data Analysis
-Lec4 - Probabilistic Methods for Interest Rates
-Lec5 - Heath Jarrow & Morton Model
-Lec6 - LIBOR Market Model
-Lec7 - Further Monte Carlo
-Lec8 - Cointegration for Trading
-Lec9 - Credit Default Swaps
-Lec10 - Credit Derivatives & Structural Models
-Lec11 - Intensity Models
-Lec12 - CDO & Correlation Sensitivity
-Lec13 - X Valuation Adjustment
+- Lecture 1 - Fixed Income Products & Analysis
+- Lecture 2 - Stochastic Interest Rate Modelling
+- Lecture 3 - Calibration & Data Analysis
+- Lecture 4 - Probabilistic Methods for Interest Rates
+- Lecture 5 - Heath Jarrow & Morton Model
+- Lecture 6 - LIBOR Market Model
+- Lecture 7 - Further Monte Carlo
+- Lecture 8 - Cointegration for Trading
+- Lecture 9 - Credit Default Swaps
+- Lecture 10 - Credit Derivatives & Structural Models
+- Lecture 11 - Intensity Models
+- Lecture 12 - CDO & Correlation Sensitivity
+- Lecture 13 - X Valuation Adjustment

@@ -2,17 +2,17 @@
 
 Module 1 - Paul & Riaz
 
--Lec1 - Random Behaviour of Assets
+- Lecture 1 - Random Behaviour of Assets
 
--Lec2 - Binomial Model
+- Lecture 2 - Binomial Model
 
--Lec3 - PDEs & Transition Density Functions
+- Lecture 3 - PDEs & Transition Density Functions
 
--Lec4 - Applied Stochastic Calculus I
+- Lecture 4 - Applied Stochastic Calculus I
 
--Lec5 - Applied Stochastic Calculus II
+- Lecture 5 - Applied Stochastic Calculus II
 
--Lec6 - Martingales
+- Lecture 6 - Martingales
 
 Module 2 - Sebastien & Stuart Jackman & Stephen Taylor
 

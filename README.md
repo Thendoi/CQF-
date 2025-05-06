@@ -38,6 +38,7 @@ Portfolio Optimization
 
 Value at Risk & GARCH
 
+___
 
 Module 3 - Sebastien & Riaz & Paul & Espen
 
@@ -63,6 +64,7 @@ Finite Difference Methods
 
 Implied Volatility
 
+___
 
 Module 4 - Paul, Panos & Kannan
 

@@ -1,4 +1,6 @@
-# CQF-
+# Certificate in Quantitative Finance (CQF)
+
+# The world's leading master's-level professional qualification in quant finance
 ___
 
 Module 1 - Paul & Riaz

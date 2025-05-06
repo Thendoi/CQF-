@@ -1,5 +1,5 @@
 # CQF-
-
+__
 Module 1 - Paul & Riaz
 
 - Lecture 1 - Random Behaviour of Assets
@@ -13,11 +13,14 @@ Module 1 - Paul & Riaz
 - Lecture 5 - Applied Stochastic Calculus II
 
 - Lecture 6 - Martingales
-___
-Project 
+  
+###Project 
+
 Introduction to Financial Times Series
+
 Binomial Trees in Option Pricing
 ___
+
 Module 2 - Sebastien & Stuart Jackman & Stephen Taylor
 
 - Lecture 1 - An Intro of Portfolio Theory
